@@ -1,1 +1,1 @@
-This is new readme file -- restore commited
+This is new readme file -- restore commited -- staged --workarea
